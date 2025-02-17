@@ -7,10 +7,11 @@
 
 > [!IMPORTANT]
 > Features 🚀:
-> 1. Supports various architectures: `ARM64, ARMv7a, x86_64, and x86`. ✔️
+> 1. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
 > 2. Automatic architecture detection. ✔️
 > 3. Delete unused binary files automatically. ✔️
 > 4. Sqlite version: `3.49.0`. ✔️
+> 5. Combine this module with [Android Performance Optimizer](https://github.com/DEMONICCA/Android-Performance-Optimizer.git). ✔️
 <hr/>
 
 > [!TIP]
