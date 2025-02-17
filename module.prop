@@ -1,8 +1,8 @@
-id=SQLITE-UPDATE
-name=Update SQlite for Android
-version=v3.47.2
-versionCode=3
+id=SQLITE3
+name=SQLite3 for Android
+version=3.49.0
+versionCode=20250217
 author=@illumi
-description=This Magisk module provides a statically linked and stripped sqlite3 binary for arm64-v8a, armeabi-v7a, x86, and x86_64 devices.
+description=Universal SQLite3 binary installer for multiple architectures.
 support=https://trakteer.id/demonica/tip
 donate=https://www.paypal.com/paypalme/faniadittiya
