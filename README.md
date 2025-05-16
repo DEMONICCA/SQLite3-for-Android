@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/70f69218-e87a-42e2-843e-ee99fba6f2d7)
+> ![Image](https://github.com/user-attachments/assets/88cad517-82a9-4d1a-b183-feb1dfe4a688)
 
 > [!NOTE]
 > Description 📝:
