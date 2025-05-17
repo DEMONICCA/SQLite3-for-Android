@@ -4,6 +4,13 @@
 
 > [3.49.1]
 >
+> - Add `verify.sh` to automate the `integrity` check.
+> - Added `i386` and `armv8l` and `armeabi` architectures but I don't know if this works or not.
+> - Add `service.sh` to update `module.prop`.
+---
+
+> [3.49.1]
+>
 > - Update `customize` and `functions`, this applies to all future modules.
 > - Update `LICENSE`,`README` and add `changelog.md`.
 > - Delete all messages in `install.sh`.
