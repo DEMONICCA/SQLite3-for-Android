@@ -2,6 +2,11 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [3.50.2] - `20250710`
+>
+> - Update sqlite3 to the latest version `3.50.2`.
+---
+
 > [3.50.1] - `20250619`
 >
 > - Update sqlite3 to the latest version `3.50.1`.
