@@ -1,7 +1,6 @@
 > ![Image](https://github.com/user-attachments/assets/2720e589-7e43-4f35-95aa-a29f6315be2a)
 
 > [!NOTE]
-> Description 📝:
 > - This module provides an optimized version of SQLite3 for various Android architectures.
 <hr/>
 
@@ -15,12 +14,14 @@
 <hr/>
 
 > [!TIP]
-> Installation 📌:
-> 1. Make sure Magisk, KSU, or Apatch & SukiSU is Installed
-> 2. Download [Module](https://t.me/modulkuntul)
-> 3. Installation via Magisk/KSU/Apatch/SukiSU Manager
-> 4. Reboot the device after the installation is complete.
-> 5. After the installation is complete, you can check the changes using the `Termux` command `su -c sqlite3`.
+> 1. Supports `Magisk` `KernelSU - NEXT` `APatch` dan `SukiSU`.
+> 2. Minimum Android `9 sdk 28`.
+> 3. Check for changes with the `Termux` command `su -c sqlite3`.
+<hr/>
+
+> [!WARNING]
+> Disclaimers 🛡️:
+> - This module is provided "as is" without warranty. Use of this module is at your own risk. Make sure to back up original data and configuration before installation. The author is not responsible for any damage or problems that may arise.
 <hr/>
 
 <div align="center">
