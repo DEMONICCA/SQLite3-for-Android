@@ -6,25 +6,25 @@
 <hr/>
 
 > [!IMPORTANT]
-> Features 🚀:
-> 1. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
-> 2. Automatic architecture detection. ✔️
-> 3. Delete unused binary files automatically. ✔️
-> 4. Sqlite version: `3.50.2`. ✔️
-> 5. Combine this module with [Android Performance Optimizer](https://github.com/DEMONICCA/Android-Performance-Optimizer.git). ✔️
+> Features ✨:
+> 1. SQLite version `3.50.3 2025-07-17 13:25:10` ✔️
+> 2. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
+> 3. Automatic architecture detection. ✔️
+> 4. Delete unused binary files automatically. ✔️
+> 5. Combine this module with [SQLite Enhancer](https://github.com/DEMONICCA/SQLite-Enhancer.git) or it could also be for this [Android Performance Optimizer](https://github.com/DEMONICCA/Android-Performance-Optimizer.git). ✔️
 <hr/>
 
 > [!TIP]
-> Installation ✳️:
-> 1. Make sure Magisk, KSU, or Apatch is Installed
+> Installation 📌:
+> 1. Make sure Magisk, KSU, or Apatch & SukiSU is Installed
 > 2. Download [Module](https://t.me/modulkuntul)
-> 3. Installation via Magisk/KSU/Apatch Manager
+> 3. Installation via Magisk/KSU/Apatch/SukiSU Manager
 > 4. Reboot the device after the installation is complete.
-> 5. Once the installation is complete, you can use SQLite3 by running the following command in the terminal or termux: `su` enter `sqlite3`
+> 5. After the installation is complete, you can check the changes using the `Termux` command `su -c sqlite3`.
 <hr/>
 
 <div align="center">
-  If you like my work, please follow me or star my work on GitHub       
+  If you like my work, please follow me or star ⭐ my work on GitHub       
  
   You can also show your concern by donating below.
 <div align="center">
