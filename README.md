@@ -19,6 +19,14 @@
 > 3. Check for changes with the `Termux` command `su -c sqlite3`.
 <hr/>
 
+<<<<<<< HEAD
+=======
+> Download the module here 📦:                  
+> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
+> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
+<hr/>
+
+>>>>>>> af4d3c7 (first commit)
 > [!WARNING]
 > Disclaimers 🛡️:
 > - This module is provided as is, without warranty of any kind. Any risks of use are entirely your responsibility. It is recommended to back up important data and configuration before installation. This module was developed in good faith to provide benefits, but the author is not responsible for any damage or problems that may occur as a result of its use.

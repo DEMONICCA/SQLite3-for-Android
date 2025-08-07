@@ -2,6 +2,17 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [3.50.3] - `20250804`
+>
+> - Update sqlite3 to the latest version `3.50.3`.
+> - Updates to the code in `customize.sh` and changed the name from arch to sqlite3.
+> - Updated `README.md` to be more professional and understandable.
+> - Updated `module.prop` root use method detector to be more complex.
+> - Add module banner for KernelSU Next.
+> - Add notifications with `icons` to make them more attractive.
+> - And other minor changes updates.
+---
+
 > [3.50.2] - `20250710`
 >
 > - Update sqlite3 to the latest version `3.50.2`.
