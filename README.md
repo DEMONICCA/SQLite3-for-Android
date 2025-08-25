@@ -6,7 +6,7 @@
 
 > [!IMPORTANT]
 > Features ✨:
-> 1. SQLite version `3.50.3 2025-07-17 13:25:10` ✔️
+> 1. SQLite version `3.50.4 2025-07-30 19:33:53` ✔️
 > 2. Supports `ARM64, ARMv7a, x86, and x86_64` architectures. ✔️
 > 3. Automatic architecture detection. ✔️
 > 4. Delete unused binary files automatically. ✔️

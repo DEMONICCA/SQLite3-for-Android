@@ -1,9 +1,9 @@
 id=SQLITE3
 name=SQLite3 for Android
-version=3.50.3
-versionCode=20250804
+version=3.50.4
+versionCode=20250819
 author=@illumi
-description=Universal SQLite3 binary installer for multiple architectures.
+description=[ ✅ Magisk (30200 9476e728-alpha R) | 🦊 Android 15 ] ✅ SQLite version 3.50.4 2025-07-30 19:33:53 | Universal SQLite3 binary installer for multiple architectures.
 support=https://trakteer.id/demonica/tip
 donate=https://www.paypal.com/paypalme/faniadittiya
 banner=https://raw.githubusercontent.com/DEMONICCA/SQLite3-for-Android/refs/heads/main/SQLite3%20for%20Android.jpg
