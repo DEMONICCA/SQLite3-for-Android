@@ -2,6 +2,14 @@
 > - All significant changes to this project will be documented here.
 ---
 
+> [3.50.4] - `20250819`
+>
+> - Update sqlite3 to the latest version `3.50.4`.
+> - Now only supports `Android 10+`
+> - Updated to be compatible with all `ARCH` devices (still in testing phase).
+> - Everything else is still the same as before.
+---
+
 > [3.50.3] - `20250804`
 >
 > - Update sqlite3 to the latest version `3.50.3`.
